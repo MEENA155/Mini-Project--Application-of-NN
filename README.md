@@ -15,7 +15,7 @@ We can observe that the accuracy achieved by the state-of-the-art ML model is no
 ### Colaboratory Link :
 https://colab.research.google.com/drive/1rknMNlbLphgS6ObhFSfGUWMfB-S_kPIE?usp=sharing
 ## Program:
-### import the necessary pakages
+### Import the necessary pakages
 ```
 import numpy as np
 import pandas as pd
@@ -32,7 +32,7 @@ from sklearn import metrics
 import warnings
 warnings.filterwarnings('ignore')
 ```
-### install the csv file
+### Install the csv file
 ```
 df = pd.read_csv('/content/Tesla.csv')
 df.head()df.shape
