@@ -7,11 +7,13 @@ Stock market prediction
 ## Project Description:
 We can observe that the accuracy achieved by the state-of-the-art ML model is no better than simply guessing with a probability of 50%. Possible reasons for this may be the lack of data or using a very simple model to perform such a complex task as Stock Market prediction.
 ## Algorithm:
-import the necessary pakages.
-install the csv file
-using the for loop and predict the output
-plot the graph
-analyze the regression bar plot
+1. Import the necessary pakages.
+2. Install the csv file
+3. Using the for loop and predict the output
+4. Plot the graph
+5. Analyze the regression bar plot
+### Colaboratory Link :
+https://colab.research.google.com/drive/1rknMNlbLphgS6ObhFSfGUWMfB-S_kPIE?usp=sharing
 ## Program:
 ### import the necessary pakages
 ```
